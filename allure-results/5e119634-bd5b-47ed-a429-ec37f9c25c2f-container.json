@@ -1,0 +1,1 @@
+{"uuid":"5e119634-bd5b-47ed-a429-ec37f9c25c2f","name":"com.vwo.base.TestBase.setUp","children":["072a11a6-d94c-4412-af83-14f9be71f329"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673706540904,"stop":1673706553233}],"afters":[],"start":1673706540903,"stop":1673706553234}
